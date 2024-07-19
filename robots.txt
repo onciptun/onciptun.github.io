@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onciptun.github.io/sitemap
+Sitemap: https://onciptun.github.io/app/sitemap
+Sitemap: https://onciptun.github.io/assets/sitemap
+Sitemap: https://onciptun.github.io/css/sitemap
+Sitemap: https://onciptun.github.io/includes/sitemap
+Sitemap: https://onciptun.github.io/item/sitemap
+Sitemap: https://onciptun.github.io/src/sitemap
